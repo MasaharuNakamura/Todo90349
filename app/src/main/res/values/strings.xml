@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="tv_task_list">タスクリスト</string>
+    <string name="btn_new">新規</string>
+    <string name="tv_new_task"></string>
+    <string name="tv_task_insert">タスク情報登録</string>
+    <string name="tv_task_edit">タスク情報編集</string>
+    <string name="tv_input_name">タスク名:</string>
+    <string name="tv_input_dead_line">期限:</string>
+    <string name="button_date">日付</string>
+    <string name="not_done">未実施</string>
+    <string name="done">実施済</string>
+    <string name="all">全て</string>
+    <string name="deadline">期限:</string>
+    <string name="deadline_today">期限:今日</string>
+    <string name="sw_comp_task">完了タスク</string>
+    <string name="tv_input_note">詳細:</string>
+    <string name="btn_delete">削除</string>
+    <string name="btn_insert">登録</string>
+    <string name="msg_input_name">タスク名を入力してください</string>
+    <string name="msg_input_ms">日付を入力してください</string>
+    <string name="delete_check_title">確認!</string>
+    <string name="delete_check_msg">このタスクを削除してもよろしいですか？</string>
+    <string name="dlg_btn_ok">削除</string>
+    <string name="dlg_btn_ng">キャンセル</string>
+
+
+</resources>
